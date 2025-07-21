@@ -1,0 +1,29 @@
+# 💼 WorkCom — Smart Team Communication Platform
+
+*WorkCom* is a modern web-based communication tool designed for teams, startups, and remote workers. It helps streamline workplace collaboration through real-time messaging, task sharing, and team coordination — all in one place.
+
+---
+
+## 🚀 Key Features
+
+- ✅ Real-time chat and direct messaging
+- ✅ Task assignment and tracking
+- ✅ Notifications and smart alerts
+- ✅ Responsive design for desktop & mobile
+- ✅ Lightweight and fast performance
+
+---
+
+## 🛠 Tech Stack
+
+| Category     | Technology              |
+|--------------|--------------------------|
+| Frontend     | HTML, CSS, JavaScript    |
+| Backend      | Node.js / Express        |
+| Database     | MongoDB / Firebase       |
+| Deployment   | GitHub Pages / Netlify   |
+| Version Ctrl | Git & GitHub             |
+
+---
+
+## 📂 Project Structure
